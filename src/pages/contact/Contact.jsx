@@ -35,7 +35,7 @@ const Contact = () => {
 
                             <div>
                                 <span className="info__title">Mail me</span>
-                                <h4 className="info__desc">thetarget018@gmail.com</h4 > 
+                                <h4 className="info__desc">pandeyarnav2002@gmail.com</h4 > 
                             </div>
                         </div>
                         <div className="info__item">
@@ -43,13 +43,18 @@ const Contact = () => {
 
                             <div>
                                 <span className="info__title">Call me</span>
-                                <h4 className="info__desc">+91 9589362921</h4> 
+                                <h4 className="info__desc">+91 7667100932</h4> 
                             </div>
                         </div>
                     </div>
 
+<<<<<<< HEAD
                     <div className="contact__socials">
                         {/* <a href="https://www.facebook.com/lakshya.borasi.52" className="contact__social-link">
+=======
+{/*                     <div className="contact__socials">
+                        <a href="https://www.facebook.com/lakshya.borasi.52" className="contact__social-link">
+>>>>>>> b80dc31eb56852f4d5ee45c2ba7f8341a1232a5b
                             <FaFacebookF />
                         </a> */}
                         {/* <a href="https://twitter.com/" className="contact__social-link">
@@ -62,7 +67,7 @@ const Contact = () => {
                             <FaInstagram />
                         </a>
                         
-                    </div>
+                    </div> */}
                 </div>
 
                 <form  className="contact__form">
