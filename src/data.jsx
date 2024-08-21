@@ -65,7 +65,7 @@ import {
       id: 5,
       name: 'Github',
       icon: <FaGithub className='nav__icon' />,
-      path: 'https://github.com/targetlakshya',
+      path: 'https://github.com/ARNAVPANDEY01',
       target: '_blank',
     },
   ];
