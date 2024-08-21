@@ -2,7 +2,7 @@ import React from 'react';
 import Info from '../../Components/Info.jsx';
 import Stats from '../../Components/Stats';
 import { FaDownload } from "react-icons/fa";
-import CV from '../../assets/lakshya-borasi-resume.pdf';
+// import CV from '../../assets/lakshya-borasi-resume.pdf';
 import "./about.css"
 import Skills from '../../Components/Skills.jsx';
 import { resume } from '../../data.jsx';
@@ -22,7 +22,7 @@ function About() {
                             <Info />
                         </ul>
 
-                        <a href={CV} download='' className="button">Download Resume <span className="button__icon"><FaDownload /></span></a>
+{/*                         <a href={CV} download='' className="button">Download Resume <span className="button__icon"><FaDownload /></span></a> */}
                     </div>
                     <div className="stats grid">
                     <Stats />
